@@ -11,7 +11,7 @@
 
 ###
 
-***quantum@QUANTUM-TOWER: ~$*** *whoami*  
+***quantum@QUANTUM-TOWER:~$*** *whoami*  
 *quantum*
 
 ###
