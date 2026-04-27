@@ -48,6 +48,7 @@
   <img width="40" />
   <br>- <a href="https://apps.microsoft.com/detail/9msmlrh6lzf3">Notepad</a></h3>
   <br>- <a href="https://www.microsoft.com/en-us/windows/paint">MS Paint</a></h3>
+  <br>- <a href="https://wiki.archlinux.org/title/Installation_guide">Arch Linux Installation</a></h3>
 </div>
 
 ###
